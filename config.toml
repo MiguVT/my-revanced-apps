@@ -11,5 +11,6 @@ patches-source = "crimera/piko"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Piko"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
+archive-dlurl = "https://archive.org/download/miguapks/com.instagram.android"
 version = "auto"
 enable-update-checks = true
