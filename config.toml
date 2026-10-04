@@ -13,5 +13,7 @@ rv-brand = "Piko"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
 archive-dlurl = "https://archive.org/download/miguapks/com.instagram.android"
 version = "auto"
-enable-update-checks = true
 arch = "arm64-v8a"
+excluded-patches = """\
+  'Disable double tap like'
+  """
